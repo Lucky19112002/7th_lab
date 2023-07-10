@@ -23,6 +23,7 @@ int main(){
     cin>>len;
     cout<<"Enter key :";
     cin>>key;
+    cout<<"Enter word :";
     char text[len];
     for (int i = 0; i < len; i++)
     {
